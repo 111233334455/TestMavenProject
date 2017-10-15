@@ -39,6 +39,7 @@ public class TestClass extends TestBase {
         driver.findElement(By.id("lst-ib")).sendKeys("111");
         driver.findElement(By.name("btnK")).click();
         Thread.sleep(5000);
+//todo for git
     }
 
     @Test
