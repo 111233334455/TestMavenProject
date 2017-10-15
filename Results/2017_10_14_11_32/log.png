@@ -1,0 +1,9 @@
+[INFO ] 2017-10-14 11:16:16 CustomLogger:31 - 1 Message- Passed
+[INFO ] 2017-10-14 11:16:16 CustomLogger:33 - 2 Message- Fail 
+[INFO ] 2017-10-14 11:16:16 CustomLogger:31 - 3 Message- Passed
+[INFO ] 2017-10-14 11:20:07 CustomLogger:31 - 1 Message- Passed
+[INFO ] 2017-10-14 11:20:07 CustomLogger:33 - 2 Message- Fail 
+[INFO ] 2017-10-14 11:20:07 CustomLogger:31 - 3 Message- Passed
+[INFO ] 2017-10-14 11:32:58 CustomLogger:31 - 1 Message- Passed
+[INFO ] 2017-10-14 11:32:58 CustomLogger:33 - 2 Message- Fail 
+[INFO ] 2017-10-14 11:32:59 CustomLogger:31 - 3 Message- Passed

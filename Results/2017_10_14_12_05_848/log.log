@@ -1,0 +1,3 @@
+[INFO ] 2017-10-14 12:05:54 CustomLogger:32 - 1 Message- Passed
+[INFO ] 2017-10-14 12:05:54 CustomLogger:34 - 2 Message- Fail 
+[INFO ] 2017-10-14 12:05:54 CustomLogger:32 - 3 Message- Passed
